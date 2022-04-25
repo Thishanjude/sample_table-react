@@ -3,6 +3,7 @@ import "./css/App/App.css";
 import Lists from "./components/list";
 import Header from "./components/header";
 import AddContact from "./components/addContact";
+import Tabs from "./components/tabs";
 
 function App() {
   // const addDetailsHandler = (detail) => {
@@ -12,7 +13,8 @@ function App() {
     <div>
       <Header />
       {/* <AddContact addDetailsHandler={addDetailsHandler}/> */}
-      <Lists />
+      {/* <Lists /> */}
+      <Tabs/>
     </div>
   );
 }

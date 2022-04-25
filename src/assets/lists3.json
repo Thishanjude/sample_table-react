@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Jude",
+    "email": "jude25@gmail.com",
+    "position": "software Engineer",
+    "salary": "190000"
+  },
+  {
+    "id": 2,
+    "name": "Pawan",
+    "email": "pawan14@gmail.com",
+    "position": "Senior software Engineer",
+    "salary": "320000"
+  },
+  {
+    "id": 3,
+    "name": "Anjalo",
+    "email": "anjelo@gmail.com",
+    "position": "Network Engineer",
+    "salary": "210000"
+  },
+  {
+    "id": 4,
+    "name": "Bandara",
+    "email": "bandara34@gmail.com",
+    "position": "DevOps Engineer",
+    "salary": "240000"
+  },
+  {
+    "id": 5,
+    "name": "Luke",
+    "email": "lukeJos@gmail.com",
+    "position": "Data Engineer",
+    "salary": "184000"
+  },
+  {
+    "id": 6,
+    "name": "James",
+    "email": "James35@gmail.com",
+    "position": "QA Engineer",
+    "salary": "170000"
+  },
+  {
+    "id": 7,
+    "name": "David",
+    "email": "david89@gmail.com",
+    "position": "Associate Software Engineer",
+    "salary": "125000"
+  },
+  {
+    "id": 8,
+    "name": "Ashraf",
+    "email": "ashraf78@gmail.com",
+    "position": "DevOps Engineer",
+    "salary": "189000"
+  },
+  {
+    "id": 9,
+    "name": "Ashfaq",
+    "email": "ashfaq24@gmail.com",
+    "position": "Business Analyst",
+    "salary": "145000"
+  },
+  {
+    "id": 10,
+    "name": "Simba",
+    "email": "simba90@gmail.com",
+    "position": "Business Analyst",
+    "salary": "135000"
+  },
+  {
+    "id": 11,
+    "name": "Yogi",
+    "email": "yogib@gmail.com",
+    "position": "Network Engineer",
+    "salary": "260000"
+  },
+  {
+    "id": 12,
+    "name": "Peter",
+    "email": "peter12@gmail.com",
+    "position": "Tech Lead",
+    "salary": "460000"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Amala",
+    "email": "amala123@gmail.com",
+    "position": "Quality Engineer",
+    "salary": "135000"
+  },
+  {
+    "id": 2,
+    "name": "Kumar",
+    "email": "kumar21@gmail.com",
+    "position": "Data Engineer",
+    "salary": "235000"
+  },
+  {
+    "id": 3,
+    "name": "Nick",
+    "email": "nick34@gmail.com",
+    "position": "Quality Assurance Engineer",
+    "salary": "1235000"
+  },
+  {
+    "id": 4,
+    "name": "Sandy",
+    "email": "sandy@gmail.com",
+    "position": "DevOps Engineer",
+    "salary": "234000"
+  },
+  {
+    "id": 5,
+    "name": "Shantha",
+    "email": "shantha@gmail.com",
+    "position": "Business Analyst",
+    "salary": "175000"
+  },
+  {
+    "id": 6,
+    "name": "Roy",
+    "email": "singhs@gmail.com",
+    "position": "Assistant QA Engineer",
+    "salary": "115000"
+  },
+  {
+    "id": 7,
+    "name": "Johanson",
+    "email": "Jjhan2@gmail.com",
+    "position": "Senior QA Engineer",
+    "salary": "255000"
+  },
+  {
+    "id": 8,
+    "name": "Ahamed",
+    "email": "Ahamed34@gmail.com",
+    "position": "DevOps Engineer",
+    "salary": "158000"
+  },
+  {
+    "id": 9,
+    "name": "Maththew",
+    "email": "Math@gmail.com",
+    "position": "ML Engineer",
+    "salary": "187000"
+  },
+  {
+    "id": 10,
+    "name": "Flora",
+    "email": "flora65@gmail.com",
+    "position": "Business Analyst",
+    "salary": "128000"
+  },
+  {
+    "id": 11,
+    "name": "Mahela",
+    "email": "Mahi34@gmail.com",
+    "position": "Data Engineer",
+    "salary": "190000"
+  },
+  {
+    "id": 12,
+    "name": "Kamala",
+    "email": "kkmamala@gmail.com",
+    "position": "Human Resources",
+    "salary": "150000"
+  },
+  {
+    "id": 13,
+    "name": "Harini",
+    "email": "Harini@gmail.com",
+    "position": "Research Engineer",
+    "salary": "215000"
+  }
+]
